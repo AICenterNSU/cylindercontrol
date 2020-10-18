@@ -4,7 +4,7 @@ This repository includes codes for numerical cylinder flow control cases.
 
 ## Low Reynolds (Re=100) cylinder flow control with rotary oscillations by DRL optimization algorithm
 
-The folder rotaryRe100DRL containes a DRL agent based on the original [OpenAI baselines](https://github.com/openai/baselines) implementation of the PPO algorithm.
+The folder rotaryRe100DRL contains a DRL agent based on the original [OpenAI baselines](https://github.com/openai/baselines) implementation of the PPO algorithm.
 
 ### Building CFD environment and the control coupling codes
 
