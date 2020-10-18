@@ -46,6 +46,6 @@ python -m baselines.run --load_path=<absolute_path>/cylindercontrol/rotaryRe100D
 
 ### Other issues
 
-- Original python conda environment used for the project can be restored using environment.yml file, see directions [here](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#crea
+- Original python conda environment used for the project can be restored using environment.yml file, see directions [here](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#create-env-from-file)
 
 - Most of the training parametres can be modified in /CustomEnvs/CustomEnvs.py and /CustomEnvs/VirtualEnv/VirtualEnv.py files.
