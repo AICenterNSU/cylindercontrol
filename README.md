@@ -30,7 +30,7 @@ python -m baselines.run
 
 - Use tensorboard for monitoring the training progress
 
-### Tesing trained model
+### Testing trained model
 
 - Use the follwing code to test a trained model
 
