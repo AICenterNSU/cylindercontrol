@@ -43,3 +43,9 @@ python -m baselines.run --load_path=<absolute_path_to_the_trained_model>
 ```bash
 python -m baselines.run --load_path=<absolute_path>/cylindercontrol/rotaryRe100DRL/OpenAI-baselines-CustomEnvs/trained_models/VirtualEnv/20200622-190846_dns_re100_entropy0.01_3-cd-0.2cl_50long/checkpoints/00050
 ```
+
+### Other issues
+
+- Original python conda environment used for the project can be restored using environment.yml file, see directions [here](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#crea
+
+- Most of the training parametres can be modified in /CustomEnvs/CustomEnvs.py and /CustomEnvs/VirtualEnv/VirtualEnv.py files.
