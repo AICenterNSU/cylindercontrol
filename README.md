@@ -6,6 +6,8 @@ This repository includes codes for numerical cylinder flow control cases.
 
 The folder rotaryRe100DRL contains a DRL agent based on the original [OpenAI baselines](https://github.com/openai/baselines) implementation of the PPO algorithm.
 
+The graphical abstract is available at https://youtu.be/9X8XtHk0R84
+
 ### Building CFD environment and the control coupling codes
 
 - In order to run training before you have to download and build TFlows CFD solver [here](https://github.com/DelNov/T-Flows) from the development_branch.
